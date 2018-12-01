@@ -181,14 +181,14 @@ body {
 
 @media screen and (max-width: 480px) {
     body {
-        background: url(".unsplash.jpg") no-repeat center center fixed;
+        background: url("unsplash.jpg") no-repeat center center fixed;
         background-size: cover;
         display: block;
         width: 100%;
         z-index: 1;
     }
     .japan-image {
-        background: url(".water.jpg") no-repeat center center fixed;
+        background: url("water.jpg") no-repeat center center fixed;
         background-size: cover;
         height: 400px;
         width: 100%;
