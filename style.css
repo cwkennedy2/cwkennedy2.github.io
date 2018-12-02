@@ -83,7 +83,7 @@ html, body {
 /* Background image, mostly covered up by main content */
 
 body {
-	background: url("./photos/unsplash.jpg") no-repeat center center fixed;
+	background: url("unsplash.jpg") no-repeat center center fixed;
 	background-size: cover;
 	display: block;
 	height: 100%;
@@ -139,7 +139,7 @@ body {
 }
 
 .water-image {
-	background: url("./photos/water.jpg") no-repeat center center fixed;
+	background: url("water.jpg") no-repeat center center fixed;
 	background-size: cover;
 	height: 675px;
 	width: 100%;
