@@ -139,7 +139,7 @@ body {
 }
 
 .water-image {
-	background: url("./photos/water.jpg") no-repeat center center fixed;
+	background: url("./photos/splash.jpg") no-repeat center center fixed;
 	background-size: cover;
 	height: 675px;
 	width: 100%;
@@ -188,7 +188,7 @@ body {
         z-index: 1;
     }
     .japan-image {
-        background: url("./photos/water.jpg") no-repeat center center fixed;
+        background: url("./photos/splash.jpg") no-repeat center center fixed;
         background-size: cover;
         height: 400px;
         width: 100%;
