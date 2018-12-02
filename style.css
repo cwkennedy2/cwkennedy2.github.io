@@ -83,7 +83,7 @@ html, body {
 /* Background image, mostly covered up by main content */
 
 body {
-	background: url("unsplash.jpg") no-repeat center center fixed;
+	background: url("./photos/unsplash.jpg") no-repeat center center fixed;
 	background-size: cover;
 	display: block;
 	height: 100%;
@@ -139,7 +139,7 @@ body {
 }
 
 .water-image {
-	background: url("water.jpg") no-repeat center center fixed;
+	background: url("./photos/water.jpg") no-repeat center center fixed;
 	background-size: cover;
 	height: 675px;
 	width: 100%;
@@ -181,14 +181,14 @@ body {
 
 @media screen and (max-width: 480px) {
     body {
-        background: url("unsplash.jpg") no-repeat center center fixed;
+        background: url("./images/unsplash.jpg") no-repeat center center fixed;
         background-size: cover;
         display: block;
         width: 100%;
         z-index: 1;
     }
     .japan-image {
-        background: url("water.jpg") no-repeat center center fixed;
+        background: url("./photos/water.jpg") no-repeat center center fixed;
         background-size: cover;
         height: 400px;
         width: 100%;
