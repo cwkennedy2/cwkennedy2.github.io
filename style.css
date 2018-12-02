@@ -181,7 +181,7 @@ body {
 
 @media screen and (max-width: 480px) {
     body {
-        background: url("./images/unsplash.jpg") no-repeat center center fixed;
+        background: url("./photos/unsplash.jpg") no-repeat center center fixed;
         background-size: cover;
         display: block;
         width: 100%;
